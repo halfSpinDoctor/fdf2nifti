@@ -1,7 +1,7 @@
 # fdf2nifti
 Convert Varian (Agilent) VnmrJ Flexible Data Format (FDF) images to NIfTI
 
-Dependancies: Requires SPM's 
+External Dependancies: Requires SPM on MATLAB paath (Tested with SPM8)
 
 BSD 2-Clause License
 
